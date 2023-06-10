@@ -1,0 +1,22 @@
+h1 {
+    list-style: 70px;
+    text-align: center;
+    background-color: gray;
+    position: sticky;
+    top: 10px;
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
+.sun{
+    background-color: white;
+    border: solid 10px gray;
+}
+html, body{
+    margin: 5px;
+    padding: 5px;
+}
+.sun:hover{
+    border: solid 10px black;
+}
